@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 20,
+    "editor.cursorSmoothCaretAnimation": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSurroundingLinesStyle": "default",
+    "editor.find.addExtraSpaceOnTop": true,
+    "editor.codeLensFontSize": 20
+}
